@@ -1,0 +1,25 @@
+.service {
+    border: 1px solid lightgray;
+    border-radius: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+    background-color: bisque;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.service img {
+    height: 250px;
+    width: 350px;
+}
+
+.service button {
+    background-image: linear-gradient(to right, orangered, salmon);
+    border: none;
+    height: 60px;
+    width: 150px;
+    font-weight: bold;
+    border-radius: 5px;
+    color: white;
+
+}
